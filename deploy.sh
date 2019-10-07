@@ -22,7 +22,8 @@ cat <<EOF >start.sh
 
 git clone ${REPO_URL} --branch ${REPO_BRANCH}
 cd treasuremap/tools/deployment/aiab/
-sudo ./airship-in-a-bottle.sh | tee /tmp/airship-in-a-bottle.sh
+sudo ./airship-in-a-bottle.sh | tee /tmp/airship-in-a-bottle.sh.output.log
+touch /tmp/DEPLOYMENT_COMPLETED
 EOF
 
 
