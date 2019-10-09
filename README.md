@@ -1,3 +1,6 @@
+#This repo should be moved to https://gerrit.akraino.org/r/admin/repos/nc/tf
+
+
 Instructions for installing airship+tungstenfabric using the Regional Controller and the TF Blueprint
 ======================================================================================================
 
