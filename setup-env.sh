@@ -18,6 +18,6 @@ export SSH_KEY=ssh_key.pem
 export BASE_URL=http://172.31.43.214:8000
 
 #repo URL and branch for airship with tungstenfabric
-export REPO_URL=https://github.com/progmaticlab/akraino-treasuremap.git
+export REPO_URL=https://github.com/progmaticlab/treasuremap.git
 export REPO_BRANCH=master
 
